@@ -2,7 +2,7 @@
 
 🎓 I'm currently pursuing a **B.Tech in Computer Science and Engineering (AI & ML specialization)** from **IIIT Nagpur** (2023–2027).  
 🧠 Passionate about **Deep Learning**, **Competitive Programming**, and building scalable **full-stack applications**.  
-📈 Currently exploring **NLP**, **bioinformatics**, and advanced **AI/ML techniques**.
+📈 Currently exploring **NLP**, **Full Stack development**, and advanced **AI/ML techniques**.
 
 
 
